@@ -13,5 +13,7 @@ Connect an Linux and one Windows EC2 instance with Grafana and monitor the diffe
 
 Don't forget to share this amazing work over LinkedIn and Tag us.
 
+# [Blog Link](https://devxblog.hashnode.dev/grafana-loki-promtail-log-management)
+
 ## Happy Learning :)
 
